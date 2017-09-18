@@ -43,7 +43,7 @@
     "critical": "^0.9.1",
     "cross-spawn": "^5.1.0",
     "del": "^3.0.0",
-    "eslint": "^4.6.1",
+    "eslint": "^4.7.1",
     "eslint-config-ascribe": "^3.0.4",
     "eslint-plugin-import": "^2.7.0",
     "gulp": "github:gulpjs/gulp#4.0",
